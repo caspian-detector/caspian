@@ -2,8 +2,7 @@
 
 # CASPIAN
 
-### Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems  
-#### via Cross-Channel Causal Monitoring
+### Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems via Cross-Channel Causal Monitoring
 
 **Kavana Venkatesh · Jafa Isbarov · Saad Amin · Murat Kantarcioglu · Jiaming Cui**  
 *Virginia Tech, Blacksburg, VA*
