@@ -16,6 +16,24 @@
 
 </div>
 
+<div align="center">
+
+# CASPIAN 🌊
+### Cascade Attack Detection in LLM Multi-Agent Systems via Cross-Channel Causal Monitoring
+
+[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg?style=flat-square)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Development Status](https://img.shields.io/badge/status-active%20development-orange.svg?style=flat-square)](https://github.com/)
+[![arXiv](https://img.shields.io/badge/arXiv-2025.XXXXX-B31B1B.svg?style=flat-square)](https://arxiv.org/)
+
+**Kavana Venkatesh** · **Jafa Isbarov** · **Saad Amin** · **Murat Kantarcioglu** · **Jiaming Cui**
+*Virginia Tech, Blacksburg, VA*
+
+---
+
+> ⚠️ **Repository Status:** This project is under active development. Please monitor this space for upcoming code releases and model weights.
+
+</div>
 ---
 
 ## Abstract 
