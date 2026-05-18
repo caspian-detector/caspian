@@ -42,7 +42,7 @@ cross-channel causal modeling is essential for reliably detecting and understand
 failures in LLM multi-agent systems.
 
 <img src="images/caspian-method.png" width="1000">
----
+
 
 ## Setup
 
@@ -139,7 +139,7 @@ python -m eval.attribution_eval --all --json > results/attribution.json
 @inproceedings{venkatesh2025caspian,
   title     = {CASPIAN: Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems via Cross-Channel Causal Monitoring},
   author    = {Venkatesh, Kavana and Isbarov, Jafar and Amin, Saad and Kantarcioglu, Murat and Cui, Jiaming},
-  journal = {arXiv preprint arXiv:0000.12345,
+  journal = {arXiv preprint arXiv:0000.12345},
   year    = {2026}
 }
 ```
