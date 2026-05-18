@@ -1,27 +1,36 @@
 <h1 align="center">CASPIAN</h1>
 
 <p align="center">
-  <b>Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems</b><br>
-  <i>Cross-Channel Causal Monitoring for Multi-Agent Safety</i>
+  <strong>Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems</strong><br>
+  <em>Cross-channel causal monitoring for safer, more interpretable multi-agent AI</em>
 </p>
 
 <p align="center">
   Kavana Venkatesh · Jafa Isbarov · Saad Amin · Murat Kantarcioglu · Jiaming Cui<br>
-  Virginia Tech
+  <strong>Virginia Tech</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Active%20Development-E67E22" />
-  <img src="https://img.shields.io/badge/License-MIT-F1C40F" />
-  <img src="https://img.shields.io/badge/arXiv-Coming%20Soon-B31B1B" />
+  <a href="#"><img src="https://img.shields.io/badge/Paper-Coming%20Soon-111827?style=flat-square"></a>
+  <a href="#"><img src="https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b?style=flat-square"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-f59e0b?style=flat-square"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-Active%20Development-10b981?style=flat-square"></a>
 </p>
 
 <p align="center">
-  <b>CASPIAN</b> detects and attributes cascade attacks by tracking how influence propagates across agents, channels, and turns in LLM-based multi-agent systems.
+  <a href="#overview">Overview</a> ·
+  <a href="#installation">Installation</a> ·
+  <a href="#quick-start">Quick Start</a> ·
+  <a href="#experiments">Experiments</a> ·
+  <a href="#citation">Citation</a>
 </p>
 
-> This repository is under active development. Code, experiments, and reproducibility materials are being continuously updated.
+---
+
+> **Active development:** This repository is being continuously updated as the paper, experiments, and reproducibility package are refined.
+
+**CASPIAN** detects and attributes cascade attacks by tracking how influence propagates across agents, channels, and turns in LLM-based multi-agent systems.
 
 ## Abstract 
 
