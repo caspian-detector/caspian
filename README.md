@@ -1,12 +1,12 @@
 <h1 align="center">CASPIAN</h1>
 
 <p align="center">
-  <strong>Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems</strong><br>
-  <strong>Cross-channel causal monitoring for safer, more interpretable multi-agent AI</strong>
+  <strong>Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems via Cross-Channel Causal Monitoring</strong><br>
+  <em>Cross-channel causal monitoring for safer, more interpretable multi-agent AI</em>
 </p>
 
 <p align="center">
-  Kavana Venkatesh · Jafa Isbarov · Saad Amin · Murat Kantarcioglu · Jiaming Cui<br>
+  Kavana Venkatesh · Jafar Isbarov · Saad Amin · Murat Kantarcioglu · Jiaming Cui<br>
   <strong>Virginia Tech</strong>
 </p>
 
@@ -15,14 +15,6 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-f59e0b?style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/badge/Status-Active%20Development-10b981?style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b?style=flat-square"></a>
-</p>
-
-<p align="center">
-  <a href="#overview">Overview</a> ·
-  <a href="#installation">Installation</a> ·
-  <a href="#quick-start">Quick Start</a> ·
-  <a href="#experiments">Experiments</a> ·
-  <a href="#citation">Citation</a>
 </p>
 
 ---
