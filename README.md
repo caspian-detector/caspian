@@ -2,36 +2,28 @@
 
 # CASPIAN
 
-**Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems**  
-*via Cross-Channel Causal Monitoring*
-
-<br>
+### Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems  
+#### via Cross-Channel Causal Monitoring
 
 **Kavana Venkatesh · Jafa Isbarov · Saad Amin · Murat Kantarcioglu · Jiaming Cui**  
-Virginia Tech · Blacksburg, VA
+*Virginia Tech, Blacksburg, VA*
 
 <br>
 
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active%20Development-orange?style=flat-square)](#)
-[![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-lightgrey?style=flat-square)](#)
-[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](#)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-F5C542?style=for-the-badge)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active%20Development-E67E22?style=for-the-badge)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](#)
 
 <br>
 
-<p>
-  <strong>CASPIAN</strong> is a framework for online cascade attack detection and attribution in LLM-based multi-agent systems, using cross-channel causal influence estimation and spectral propagation monitoring.
-</p>
+**CASPIAN** monitors how influence propagates across agents, channels, and turns to detect and attribute cascade attacks in LLM-based multi-agent systems.
 
 <br>
 
-<p>
-  <em>This repository is under active development. Please check back for updates to code, experiments, and reproducibility materials.</em>
-</p>
+> This repository is under active development. Code, experiments, and documentation are being continuously refined.
 
 </div>
-
 
 ## Abstract 
 
