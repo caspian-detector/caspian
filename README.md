@@ -1,29 +1,27 @@
-<div align="center">
+<h1 align="center">CASPIAN</h1>
 
-# CASPIAN
+<p align="center">
+  <b>Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems</b><br>
+  <i>Cross-Channel Causal Monitoring for Multi-Agent Safety</i>
+</p>
 
-### Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems 
-### via Cross-Channel Causal Monitoring
+<p align="center">
+  Kavana Venkatesh · Jafa Isbarov · Saad Amin · Murat Kantarcioglu · Jiaming Cui<br>
+  Virginia Tech
+</p>
 
-**Kavana Venkatesh · Jafa Isbarov · Saad Amin · Murat Kantarcioglu · Jiaming Cui**  
-*Virginia Tech, Blacksburg, VA*
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Active%20Development-E67E22" />
+  <img src="https://img.shields.io/badge/License-MIT-F1C40F" />
+  <img src="https://img.shields.io/badge/arXiv-Coming%20Soon-B31B1B" />
+</p>
 
-<br>
+<p align="center">
+  <b>CASPIAN</b> detects and attributes cascade attacks by tracking how influence propagates across agents, channels, and turns in LLM-based multi-agent systems.
+</p>
 
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-F5C542?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active%20Development-E67E22?style=for-the-badge)](#)
-[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](#)
-
-<br>
-
-**CASPIAN** monitors how influence propagates across agents, channels, and turns to detect and attribute cascade attacks in LLM-based multi-agent systems.
-
-<br>
-
-> This repository is under active development. Code, experiments, and documentation are being continuously refined.
-
-</div>
+> This repository is under active development. Code, experiments, and reproducibility materials are being continuously updated.
 
 ## Abstract 
 
