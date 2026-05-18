@@ -7,7 +7,7 @@
 
 <p align="center">
   Kavana Venkatesh · Jafar Isbarov · Saad Amin · Murat Kantarcioglu · Jiaming Cui<br>
-  <strong>Virginia Tech</strong>
+  <strong>Virginia Tech, Blacksburg, VA</strong>
 </p>
 
 <p align="center">
