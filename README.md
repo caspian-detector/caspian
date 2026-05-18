@@ -18,8 +18,6 @@
 </p>
 
 
-**CASPIAN** detects and attributes cascade attacks by tracking how influence propagates across agents, channels, and turns in LLM-based multi-agent systems.
-
 ## Abstract 
 
 Cascade attacks in LLM multi-agent systems (MAS) arise when adversarial influence prop-
