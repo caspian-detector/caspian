@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems</strong><br>
-  <em>Cross-channel causal monitoring for safer, more interpretable multi-agent AI</em>
+  <strong>Cross-channel causal monitoring for safer, more interpretable multi-agent AI</strong>
 </p>
 
 <p align="center">
