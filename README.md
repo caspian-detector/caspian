@@ -1,10 +1,9 @@
 <div align="center">
+# <span style="color:#E74C3C">C</span><span style="color:#E67E22">A</span><span style="color:#F1C40F">S</span><span style="color:#2ECC71">P</span><span style="color:#3498DB">I</span><span style="color:#9B59B6">A</span><span style="color:#E74C3C">N</span>
+ 
+**Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems via Cross-Channel Causal Monitoring**
 
-
-
-**CASPIAN: Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems via Cross-Channel Causal Monitoring**
-
-**Kavana Venkatesh · Jafa Isbarov. Saad Amin. Murat Kantarcioglu. Jiaming Cui** 
+**Kavana Venkatesh · Jafa Isbarov. Saad Amin. Murat Kantarcioglu. Jiaming Cui** \
 *Virginia Tech, Blacksburg, VA*
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
