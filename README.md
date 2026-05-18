@@ -1,17 +1,34 @@
 <div align="center">
-# <span style="color:#E74C3C">C</span><span style="color:#E67E22">A</span><span style="color:#F1C40F">S</span><span style="color:#2ECC71">P</span><span style="color:#3498DB">I</span><span style="color:#9B59B6">A</span><span style="color:#E74C3C">N</span>
- 
-**Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems via Cross-Channel Causal Monitoring**
 
-**Kavana Venkatesh · Jafa Isbarov. Saad Amin. Murat Kantarcioglu. Jiaming Cui** \
-*Virginia Tech, Blacksburg, VA*
+# CASPIAN
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Active Development](https://img.shields.io/badge/status-active%20development-orange.svg)](#)
-[![arXiv](https://img.shields.io/badge/arXiv-2025.XXXXX-b31b1b.svg)](#)
+**Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems**  
+*via Cross-Channel Causal Monitoring*
 
-> **This repository is under active development.** Please monitor this space for updates.
+<br>
+
+**Kavana Venkatesh · Jafa Isbarov · Saad Amin · Murat Kantarcioglu · Jiaming Cui**  
+Virginia Tech · Blacksburg, VA
+
+<br>
+
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active%20Development-orange?style=flat-square)](#)
+[![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-lightgrey?style=flat-square)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](#)
+
+<br>
+
+<p>
+  <strong>CASPIAN</strong> is a framework for online cascade attack detection and attribution in LLM-based multi-agent systems, using cross-channel causal influence estimation and spectral propagation monitoring.
+</p>
+
+<br>
+
+<p>
+  <em>This repository is under active development. Please check back for updates to code, experiments, and reproducibility materials.</em>
+</p>
 
 </div>
 
