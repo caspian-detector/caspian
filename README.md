@@ -17,9 +17,6 @@
   <a href="#"><img src="https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b?style=flat-square"></a>
 </p>
 
----
-
-> **Active development:** This repository is being continuously updated as the paper, experiments, and reproducibility package are refined.
 
 **CASPIAN** detects and attributes cascade attacks by tracking how influence propagates across agents, channels, and turns in LLM-based multi-agent systems.
 
