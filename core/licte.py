@@ -3,8 +3,7 @@ core/licte.py
 
 LI-CTE estimator: computes one LI-CTE scalar per (i, j, c) per turn.
 
-This module knows nothing about cascades, detection, or attribution.
-Its only job is:
+This module computes:
 
     score = update(state, u, v) -> float >= 0
 
@@ -19,10 +18,6 @@ Per turn:
 Shrinkage and jitter applied to Sigma before inversion.
 Never stored back to state — state always holds the raw EMA covariance.
 
-Paper refs:
-  §5          LI-CTE definition and Gaussian CMI formula
-  Appendix B  Full Schur-complement derivation
-  Appendix F-3  Operational steps
 """
 
 from __future__ import annotations
