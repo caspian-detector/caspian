@@ -1,0 +1,4 @@
+Clone the TAMAS Benchmark into this folder:
+
+Paper: https://arxiv.org/abs/2511.05269 (ACL 2026)
+GitHub: https://github.com/microsoft/TAMAS
