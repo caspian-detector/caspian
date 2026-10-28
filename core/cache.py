@@ -17,7 +17,6 @@ What is derived on retrieval:
 
 Cache is bounded: evicts turns older than MAX_CACHE_TURNS = MAX_WINDOW + 2.
 
-Paper refs: §4.4, §3.4
 """
 
 from __future__ import annotations
