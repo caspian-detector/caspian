@@ -17,12 +17,7 @@ This module owns:
   - the mapping from ChannelEvents to (u, v) feature vectors
   - the per-turn update loop over feasible edges and channels
 
-It does NOT normalize, detect, or attribute anything.
 
-Paper refs:
-  §4.2  Unified causal influence modeling
-  §3    Interaction channels and state slices
-  Appendix F  LI-CTE computation pipeline
 """
 
 from __future__ import annotations
