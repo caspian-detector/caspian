@@ -1,13 +1,13 @@
 """
 eval/attribution_eval.py
 
-CASPIAN attribution evaluation — computes paper §3.4 metrics from
+CASPIAN attribution evaluation — computes metrics from
 task_metrics.csv + gt_attribution.json.
 
 Ground truth must first be generated via:
   python -m eval.generate_attribution_gt --all
 
-Metrics (paper §3.4):
+Metrics:
   Origin accuracy      predicted i_origin == GT i_origin
   Amplifier accuracy   predicted i_amp    == GT i_amp
   Bridge accuracy      predicted i_bridge == GT i_bridge
