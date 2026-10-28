@@ -47,7 +47,6 @@ failures in LLM multi-agent systems.
 
 ```bash
 git clone https://github.com/caspian-detector/caspian/
-cd caspian-mas
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 export OPENAI_API_KEY=your_key_here
