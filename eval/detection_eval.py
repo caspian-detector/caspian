@@ -1,7 +1,7 @@
 """
 eval/detection_eval.py
 
-CASPIAN detection evaluation — computes all paper §3.3 metrics from
+CASPIAN detection evaluation — computes all metrics from
 task_metrics.csv outputs.
 
 Supports:
