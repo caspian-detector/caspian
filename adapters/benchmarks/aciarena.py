@@ -3,19 +3,8 @@ adapters/benchmarks/aciarena.py
 
 ACIArena benchmark adapter for CASPIAN.
 
-Responsibilities:
-  - locate ACIArena repo and datasets
-  - load ACIArena tasks into Scenario objects
-  - resolve attack/backend classes
-  - build LLMDebateRunSpec with real ACI backend+attack factories
-
-Does NOT:
-  - run CASPIAN detector
-  - write CSVs
-  - use old CascadeDetector, warmup, or scoring logic
-
 Expected layout:
-  caspian-mas/
+  caspian/
     aciarena/
       aciarena/
         evaluation/datasets/maspi_math.json
