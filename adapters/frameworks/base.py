@@ -8,11 +8,6 @@ A framework adapter answers:
   - Given a Scenario, how do I run or parse the framework and get a trace?
   - Given a raw trace, how do I produce ChannelEvents per turn?
 
-The framework adapter knows nothing about:
-  - Which benchmark the scenario came from
-  - The CASPIAN core pipeline
-  - Detection or attribution logic
-
 Two execution modes:
   LIVE   — adapter runs the framework in-process (AutoGen async stream)
   SUBPROCESS — adapter launches an external process and parses its log (CrewAI)
