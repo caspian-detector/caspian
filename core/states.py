@@ -20,11 +20,6 @@ Correct per-turn ordering (enforced by licte.py, documented here):
   5. CMI computed in licte.py from Sigma
   6. update_ema(u, v)                   <- h updated AFTER CMI
 
-Paper refs:
-  §4   EMA source/history formulation
-  §5   LI-CTE, rank-copula, Schur complement CMI
-  Appendix B  full CMI derivation
-  Appendix F-3  operational steps
 """
 
 from __future__ import annotations
