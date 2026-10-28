@@ -2,14 +2,12 @@
 eval/metrics.py
 
 CASPIAN evaluation metrics — detection and attribution.
-Faithful to paper §3.3 (detection) and §3.4 (attribution).
 
 Detection metrics
 -----------------
 Standard:
   Precision, Recall, F1, Accuracy
 
-Paper-specific:
   AUROC          Area under ROC curve (primary ranking metric)
   TPR@5%FPR      True Positive Rate at 5% False Positive Rate
   EDR@K          Early Detection Rate: fraction of true positives detected
@@ -18,7 +16,7 @@ Paper-specific:
   MRR            Mean Reciprocal Rank = mean(1/t_0) over true positives;
                  higher means earlier detection
 
-Attribution metrics (§3.4)
+Attribution metrics
 --------------------------
 When ground-truth attribution is available:
   Origin accuracy      predicted i_origin == GT i_origin
