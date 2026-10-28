@@ -11,7 +11,7 @@ evolution, and the distribution of channel-level Perron roots.
 Output: SpectralSignals dataclass — pure signal values, no cascade decisions.
 Cascade decisions live in detector.py.
 
-Signals (paper §4.3.1):
+Signals:
 
   lambda1      Perron root rho(A_tilde) — global propagation intensity
   lambda2      Second-largest eigenvalue modulus — secondary mode strength
@@ -25,7 +25,6 @@ Signals (paper §4.3.1):
   H_norm       Normalized Shannon entropy over channel Perron roots
   cross_channel H_norm >= 0.5
 
-Paper refs: §3.2, §4.3.1
 """
 
 from __future__ import annotations
