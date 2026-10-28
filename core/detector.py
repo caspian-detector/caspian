@@ -30,7 +30,6 @@ MultiTurnCascade:
     Transition = at least one PhaseShift or CrossChannel in window
     WeakLink at t_0.
 
-Paper refs: §3.3, §4.3.2
 """
 
 from __future__ import annotations
