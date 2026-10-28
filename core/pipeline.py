@@ -32,9 +32,7 @@ Usage:
             print(result.detection)
             print(result.attribution)
 
-Paper refs:
-  §4    Full methodology
-  Algorithm 1  Online CASPIAN pipeline
+
 """
 
 from __future__ import annotations
