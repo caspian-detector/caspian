@@ -1,0 +1,15 @@
+numpy
+torch
+pandas
+matplotlib
+transformers
+fastembed
+openai
+langchain_openai
+python_dotenv
+autogen-agentchat 
+autogen-ext[openai]
+scipy
+crewai
+metagpt --use-deprecated=legacy-resolver
+"pydantic>=2.5.3,<3.0.0"
