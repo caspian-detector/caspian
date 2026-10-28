@@ -9,8 +9,8 @@ Key design:
   - One CASPIAN turn = one debate phase/round (bootstrap, step_1..N, conclude)
   - Messages within a phase are batched together, not one-per-turn
   - Stage metadata included in content so different rounds produce distinct vectors
-  - ACI backend runs real LLM calls via backend_factory
-  - TAMAS uses stub debate with real OpenAI calls per round
+  - ACI backend runs LLM calls via backend_factory
+  - TAMAS uses stub debate with OpenAI calls per round
 
 Channel mapping:
   comm   debate messages between agents
