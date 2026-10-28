@@ -29,7 +29,6 @@ Note: A_raw from tensor.py is kept separately for bridge attribution.
 A_matrix must not replace it — A_matrix is channel-normalized and loses
 true interaction volume that bridge scoring requires.
 
-Paper refs: §4.2, §4.3, §4.4
 """
 
 from __future__ import annotations
