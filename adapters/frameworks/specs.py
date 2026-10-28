@@ -3,9 +3,6 @@ adapters/frameworks/specs.py
 
 Generic runtime specs passed from benchmark adapters to framework adapters.
 
-The benchmark adapter knows what agents/tools/tasks to build.
-The framework adapter knows how to run the framework with those specs.
-Neither knows about the other's internals.
 """
 
 from __future__ import annotations
